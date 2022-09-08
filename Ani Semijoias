@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> 
+   <meta charset='utf-8'> 
+   <meta http-equiv='X-UA-Compartible' content='IE=edge'>
+   <title>Page Title</title> 
+   <meta name='viewport' content='width=device-width, initial-scale=1'>
+   <link rel='stylesheet'type='text/css' media='screen' href='style.css'>
+   <script src='main.js'></script>
+</head>
+
+<body>
+<img src="imagemsite.png">
+<h1> Sobre Joias </h1>
+<h2> Ani Semijoias </h2> 
+<h3> Estamos localizados na cidade de Florianópolis, em frente a praiaA dos ingleses. Esperamos com muito amor. </h3>
+<p> Nossa missão é ter produtos mais em conta de boa qualidade para que todas as pessoas tenham a oportunidade de ficarem elegantes. </p>
+<p2> Oferecemos joias de ouro, prata e folhadas com uma qualidade exelente, e por um ótimo preço e 6 meses de garantia. </p2> 
+<p3> A cada R$ 400,00 em compras você ganha uma peça de ouro , e muitas outras promoções. </p3> 
+</body>
+</html>
